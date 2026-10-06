@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abmalek2560-cmd/smart-farming-dinajpur-crop-selection/blob/main/Copy_of_dinajpur_crop_selection.ipynb)
 # Smart Farming for Dinajpur: A Machine Learning Approach to Regional Crop Selection
 
 A data-driven machine learning solution designed to recommend optimal agricultural crops for Dinajpur, Bangladesh, based on regional soil chemistry and daily agroclimatological metrics.
