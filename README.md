@@ -5,8 +5,8 @@ A data-driven machine learning solution designed to recommend optimal agricultur
 ---
 
 ## 📌 Project Overview
-- **Target Region:** Dinajpur Sadar, Dinajpur, Bangladesh (Lat: 25.62° N, Lon: 88.64° E)
-- **Objective:** Train a predictive model to select suitable crops for precision farming.
+- Target Region: Dinajpur Sadar, Dinajpur, Bangladesh (Lat: 25.62° N, Lon: 88.64° E)
+- Objective: Train a predictive model to select suitable crops for precision farming.
 - **Model Used:** Random Forest Classifier
 - **Model Accuracy:** **99.09%**
 
